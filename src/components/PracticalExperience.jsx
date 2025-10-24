@@ -63,6 +63,7 @@ function PracticalExperience (){
                 <h3>Practical Experience</h3>
                 <p>Company Name: {companyName || "(none)"}</p>
                 <p>Position Title: {positionTitle || "(none)"}</p>
+                <p>Responsibilities: {responsibilities || "(none)"}</p>
                 <p>Date Began: {startingDate || "(none)"}</p>
                 <p>Date Ended: {endingDate || "(none)"}</p>
                 <hr />
