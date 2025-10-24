@@ -4,3 +4,23 @@
   padding: 2rem;
   text-align: center;
 }
+
+
+input {
+  width: 100%;
+  padding: 10px;
+  border-radius: 8px;
+  border: none;
+  margin-bottom: 20px;
+}
+
+input:hover {
+  border: 1px solid rgb(6, 102, 192);
+  cursor: pointer;
+}
+
+button {
+  float: left;
+  padding: 7px 14px;
+  margin-right: 10px;
+}
