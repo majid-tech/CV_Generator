@@ -1,6 +1,7 @@
 import './App.css'
 import EducationExperience from './components/EducationExperience'
 import GeneralInfo from './components/GeneralInfo'
+import PracticalExperience from './components/PracticalExperience'
 
 function App() {
 
@@ -15,6 +16,7 @@ function App() {
       <br />
       <br />
       <br />
+      <PracticalExperience />
     </>
   )
 }
